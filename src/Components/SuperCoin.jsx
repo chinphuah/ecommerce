@@ -1,6 +1,6 @@
 import React from 'react';
 import './ShoppingCart.css'; 
-import { useDispatch, useSelector } from 'react-redux';
+import { useSelector } from 'react-redux';
 import { useState } from 'react';
 import { useEffect } from 'react';
 
